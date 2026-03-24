@@ -1,0 +1,16 @@
+{
+  "name": "J&J Pressure Washing",
+  "short_name": "J&J Pressure",
+  "description": "Professional pressure washing services in LaGrange, GA and surrounding areas.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1A1A1A",
+  "theme_color": "#C41E24",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
